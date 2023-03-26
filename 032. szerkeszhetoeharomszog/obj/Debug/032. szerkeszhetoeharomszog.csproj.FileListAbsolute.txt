@@ -1,0 +1,7 @@
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\bin\Debug\_032.szerkeszhetoeharomszog.exe.config
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\bin\Debug\_032.szerkeszhetoeharomszog.exe
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\bin\Debug\_032.szerkeszhetoeharomszog.pdb
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\obj\Debug\032. szerkeszhetoeharomszog.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\obj\Debug\032. szerkeszhetoeharomszog.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\obj\Debug\_032.szerkeszhetoeharomszog.exe
+C:\Users\gratt\source\repos\032. szerkeszhetoeharomszog\032. szerkeszhetoeharomszog\obj\Debug\_032.szerkeszhetoeharomszog.pdb
